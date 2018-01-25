@@ -1,0 +1,5 @@
+D:\wdp\cw6\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe.config
+D:\wdp\cw6\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe
+D:\wdp\cw6\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.pdb
+D:\wdp\cw6\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.exe
+D:\wdp\cw6\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.pdb
